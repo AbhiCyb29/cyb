@@ -1,0 +1,6 @@
+projectKey=crudassignment1:master
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=crudassignment1%3Amaster
+ceTaskId=AYR_xeNs02ASefZCyhOm
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AYR_xeNs02ASefZCyhOm
